@@ -1,4 +1,4 @@
-#include "MS-modules.hpp"
+#include "MS_modules.hpp"
 #include "dsp/digital.hpp"
 
 struct LowFrequencyOscillator {
